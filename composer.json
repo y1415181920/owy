@@ -1,0 +1,14 @@
+{
+    "name": "yjn/owy",
+    "autoload": {
+        "psr-4": {
+            "Yjn\\Owy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "1415181920"
+        }
+    ],
+    "require": {}
+}
