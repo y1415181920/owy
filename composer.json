@@ -1,5 +1,6 @@
 {
     "name": "yjn/owy",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Yjn\\Owy\\": "src/"
